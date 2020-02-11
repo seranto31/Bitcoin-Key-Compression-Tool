@@ -1,4 +1,4 @@
-Echo Off
+@Echo Off
 COLOR 0F
 
 SET file=addr.txt
